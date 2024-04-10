@@ -75,7 +75,7 @@ configuration:
     name: Přidat proměnné pro čtení do nastavení MQTT integrace.
     description: Přidat proměnné pro čtení do nastavení MQTT integrace.
   mqtttopic:
-    name: "MQTT topic (výchozí: ebusd)"
+    name: "MQTT topic (výchozí: ebusd2)"
     description: MQTT topic
   lograwdata:
     name: "Zapnout logování syrových (raw) dat"

@@ -10,7 +10,7 @@ RUN echo "https://dl-cdn.alpinelinux.org/alpine/edge/main" \
 
 RUN apk add --no-cache ebusd=23.2-r0
 
-LABEL Description="ebusd"
+LABEL Description="ebusd (2)"
 
 COPY run.sh /
 RUN chmod a+x /run.sh

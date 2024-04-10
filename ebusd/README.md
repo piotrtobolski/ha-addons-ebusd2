@@ -1,10 +1,10 @@
-# Home Assistant Add-on: ebusd
+# Home Assistant Add-on: ebusd (2)
 
 This add-on creates a supervisor add-on to run [ebusd](http://ebusd.eu). Configure ebusd comandline arguments using configuration options.
 
 Use ebusd's built-in MQTT client and the [mosquitto](https://github.com/home-assistant/addons/tree/master/mosquitto) add-on to get data from ebusd into Home Assistant core.
 
-See [repository readme](https://github.com/LukasGrebe/ha-addons#how-to-install) on how to install ebusd addon in supervisor.
+See [repository readme](https://github.com/piotrtobolski/ha-addons-ebusd2#how-to-install) on how to install ebusd addon in supervisor.
 
 See [docs](https://github.com/LukasGrebe/ha-addons/blob/main/ebusd/DOCS.md#how-to-run-ebusd) on how to run ebusd in supervisor.
 

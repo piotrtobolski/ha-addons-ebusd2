@@ -1,10 +1,10 @@
-name: eBUSd
+name: eBUSd (2)
 version: "23.2.3"
-slug: ebusd
+slug: ebusd2
 description: >
-  This Add-on runs eBUSd, a daemon for handling communication with eBUS devices
+  This Add-on runs eBUSd (2), a daemon for handling communication with eBUS devices
   connected to a 2-wire bus system (“energy bus” used by numerous heating systems)
-  USB and network eBUSd adapters are supported.
+  USB and network eBUSd (2) adapters are supported.
 url: https://community.home-assistant.io/t/an-ebusd-add-on/344852
 arch:
   - armhf
@@ -29,7 +29,7 @@ ports_description:
 options:
   scanconfig: true
   loglevel_all: "notice"
-  mqtttopic: "ebusd"
+  mqtttopic: "ebusd2"
   mqttint: "/etc/ebusd/mqtt-hassio.cfg"
   mqttjson: true
 schema:

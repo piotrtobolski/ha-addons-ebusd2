@@ -75,7 +75,7 @@ configuration:
     name: Add variable(s) to the read MQTT integration settings.
     description: Add variable(s) to the read MQTT integration settings.
   mqtttopic:
-    name: "MQTT topic (default: ebusd)"
+    name: "MQTT topic (default: ebusd2)"
     description: MQTT topic
   lograwdata:
     name: "Enable logging of raw data"
