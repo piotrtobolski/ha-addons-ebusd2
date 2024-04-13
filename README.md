@@ -11,7 +11,7 @@ Adds second ebusd addon so you can communicate with another ebusd adapter from y
 3. Add `https://github.com/piotrtobolski/ha-addons-ebusd2`
 4. Wait for the ebusd Add-on to show up or click reload in the same overflow menu
 5. Install eBUSd.
-6. 6. Follow Documentation, Setup and Install of the Add-on
+6. Follow Documentation, Setup and Install of the Add-on
 
 
 ## [ebusd](https://github.com/piotrtobolski/ha-addons-ebusd2/tree/main/ebusd) 
